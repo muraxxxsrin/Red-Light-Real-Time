@@ -1,0 +1,8 @@
+/models
+/documents
+/output
+/output.zip
+*.json
+/config.py
+DB/database.py
+services.json
